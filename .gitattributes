@@ -1,0 +1,5 @@
+* text=false
+*.fs text eol=lf
+*.fsproj text eol=lf
+*.md text eol=lf
+*.sln text eol=lf
